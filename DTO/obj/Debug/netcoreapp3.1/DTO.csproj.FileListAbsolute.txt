@@ -1,0 +1,9 @@
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

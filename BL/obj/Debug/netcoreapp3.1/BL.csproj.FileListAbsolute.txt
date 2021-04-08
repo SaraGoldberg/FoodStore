@@ -1,0 +1,14 @@
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\bin\Debug\netcoreapp3.1\BL.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\bin\Debug\netcoreapp3.1\BL.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\bin\Debug\netcoreapp3.1\DL.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\obj\Debug\netcoreapp3.1\BL.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\BL\obj\Debug\netcoreapp3.1\BL.pdb
